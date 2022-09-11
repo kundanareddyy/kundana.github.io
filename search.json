@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "Kundana Reddy",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nplot(iris, pch=20, cex=0.75, col= \"orange\")"
+    "text": "plot(iris, pch=20, cex=0.75, col= \"orange\")"
+  },
+  {
+    "objectID": "Leaf.html",
+    "href": "Leaf.html",
+    "title": "Kundana Reddy",
+    "section": "",
+    "text": "library(magick)\n\nLinking to ImageMagick 6.9.12.3\nEnabled features: cairo, freetype, fftw, ghostscript, heic, lcms, pango, raw, rsvg, webp\nDisabled features: fontconfig, x11\n\nim = image_read(\"Fall_Leaf.png\")\nplot(im)"
   }
 ]
