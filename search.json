@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kundana Reddy",
     "section": "",
-    "text": "plot(iris, pch=20, cex=0.75, col= \"orange\")"
+    "text": "Graduate Student\nUniversity of Texas at Dallas\nI am a graduate student at University of Texas at Dallas with major in Social Data Analytics and Research. This program involves Data collection from research fields, its analyzation and visualization using different methods and tools. I have 2.2 years of work experience in Infosys as Systems Engineer. I have Hands-on experience on Python, DBMS and Object Oriented Programming Concepts. Performed ETL (Extract, Transform and Load) operations on data using BODS(Business Object Data Services)tool. Designed and developed different format of reports using MSBI tools (SSIS and SSRS) from the data extracted from SQL tables, flat files and Excels.\n\nInterests :\n\nData Analysis and Visualization\nInformation Management\nRegression Analysis\nKnowledge Mining\nSurvey Research\n\n\n\nEducation and Experience :\n\nMS in Social Data Analytics and Research, 2022-present.\nB.Tech in Electrical and Electronics Engineering from 2015-2019.\nWorked as Systems Engineer in Infosys from 2019 to 2022."
   },
   {
     "objectID": "Leaf.html",
